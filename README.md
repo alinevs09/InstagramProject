@@ -1,9 +1,9 @@
-<center><img src="img/logo-instagram-100.png"> 
+<center><img src="img/logo-instagram-100.png"></center>
 
-Interface Login Instagram
+<center>Interface Login Instagram</center><br>
 
-<img src="img/logohtml.svg"> <img src="img/logocss3.svg">
-</center>
+<center><img src="img/logohtml.svg"> <img src="img/logocss3.svg"></center>
+<br>
 
 # Projeto
 
