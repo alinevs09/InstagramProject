@@ -2,7 +2,8 @@
 
 Interface Login Instagram
 
-<img src="img/logohtml.svg"> <img src="img/logocss3.svg"></center>
+<img src="img/logohtml.svg"> <img src="img/logocss3.svg">
+</center>
 
 # Projeto
 
